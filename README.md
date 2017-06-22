@@ -10,7 +10,7 @@ This is a simple game engine I made in a short time collating some community cod
 ### How do I get set up? ###
 
 * make sure to have npm installed
-* open powershell / cmd and cd /your/folder/path
+* open powershell or cmd and cd /your/folder/path
 * type npm install and hit enter
 * install webpack globablly with npm install -g webpack
 * type webpack in console to build the game
