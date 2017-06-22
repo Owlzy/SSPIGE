@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objecttypes>
- <objecttype name="block_pad" color="#a0a0a4"/>
- <objecttype name="block" color="#a0a0a4"/>
- <objecttype name="start" color="#a0a0a4"/>
- <objecttype name="end" color="#a0a0a4"/>
- <objecttype name="mat_slip" color="#a0a0a4"/>
-</objecttypes>
