@@ -1,0 +1,30 @@
+{"frames": {
+
+"pushable.png":
+{
+	"frame": {"x":1,"y":131,"w":66,"h":84},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":0,"w":66,"h":84},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"sampletile.png":
+{
+	"frame": {"x":1,"y":1,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "basic_tiles.png",
+	"format": "RGBA8888",
+	"size": {"w":130,"h":198},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e8e93410f300165e6ed39c9fdc66d3b1:21120bbaf8aeeed531213a18313f4756:7f7a091a3a7ad2743dd85eab2d2db819$"
+}
+}

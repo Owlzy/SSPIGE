@@ -1,0 +1,4 @@
+*Camera class 
+
+*Advanced collision detection
+

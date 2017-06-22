@@ -1,0 +1,48 @@
+{"frames": {
+
+"obj_blue_end.png":
+{
+	"frame": {"x":1,"y":1,"w":121,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":145,"w":121,"h":80},
+	"sourceSize": {"w":384,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"obj_pad_off.png":
+{
+	"frame": {"x":1,"y":165,"w":127,"h":116},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":134,"w":127,"h":116},
+	"sourceSize": {"w":384,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"obj_stone_block.png":
+{
+	"frame": {"x":1,"y":294,"w":104,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":99,"w":104,"h":131},
+	"sourceSize": {"w":384,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"obj_stone_start.png":
+{
+	"frame": {"x":1,"y":83,"w":121,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":145,"w":121,"h":80},
+	"sourceSize": {"w":384,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game_objs.png",
+	"format": "RGBA8888",
+	"size": {"w":123,"h":426},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6fe52be6139b32674cc8ef472df19014:cf1d4f398e1366ccd97aa0fed0e768b5:33ddedf98d7f368dc2c2e87727e5d0c5$"
+}
+}
