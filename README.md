@@ -1,12 +1,11 @@
-# README #
+# Super Simple PIXI Game Engine #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a simple game engine I made in a short time collating some community code alongside my own with a simple ES6 build system.  The example game in dist demonstrates some game function usages. 
 
 ### Javascript Game Engine ###
 
-* Quick summary
-* Version 1
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Can make simple multiplatform games quickly
+* Version 0.1
 
 ### How do I get set up? ###
 
@@ -17,13 +16,6 @@ This README would normally document whatever steps are necessary to get your app
 * type webpack in console to build the game
 * run webpack --watch for devs to watch the source code for changes and build dynamically
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
-* Other community or team contact
