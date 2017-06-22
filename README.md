@@ -6,6 +6,7 @@ This is a simple game engine I made in a short time collating some community cod
 
 * Can make simple multiplatform games quickly
 * Version 0.1
+* [Based around PIXI JS renderer, see docs for full usage](http://pixijs.download/dev/docs/index.html)
 
 ### How do I get set up? ###
 
