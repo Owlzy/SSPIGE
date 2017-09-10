@@ -7,7 +7,7 @@ This is a simple game engine I made in a short time collating some community cod
 * Can make simple multiplatform games quickly
 * Version 0.1
 * [Based around PIXI JS renderer, see docs for full usage](http://pixijs.download/dev/docs/index.html)
-* [See for built source code of EXAMPLE_1](http://owlzengine.x10host.com/the-game/)
+* [See for built source code of EXAMPLE_1](http://gamedevhowto.x10host.com/pong/)
 
 ### How do I get set up? ###
 
